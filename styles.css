@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #c42222;
+}
+.titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.titulo p {
+  font-size: 50px;
+  color: #1f5293;
+  font-weight: bold;
+}
+.titulo img {
+  width: 650px;
+  margin: 65px;
+}
+. enlace {
+  display: flex;
+  justify-content: center;
+}
+#c6d2e7#00b3ffce .conten {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.conten p {
+  font-size: 30px;
+  color: #758694;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.enlace a {
+  font-size: 30px;
+  margin: 30px;
+}
